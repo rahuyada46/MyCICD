@@ -1,4 +1,4 @@
-package Regression_Test_Suite;
+package Regression_Test_Suite; //testfile
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
