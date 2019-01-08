@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sanity TestSuite">
+<test name="Application Test">
+	<classes>
+		<class name="TestClasses.TestAnnotations"></class>
+		<class name="TestClasses.TestNG_Annotations"></class>
+		<class name="TestClasses.TestNG_Asserts"></class>
+	</classes>
+</test>
+</suite>

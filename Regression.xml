@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression_Test_Suite">
+<test name="Application Test">
+	<classes>
+		<class name="Regression_Test_Suite.TestSuiteLearning"></class>
+		<class name="Regression_Test_Suite.TestNG_TestClass2"></class>
+		<class name="Regression_Test_Suite.TestNG_Asserts"></class>
+	</classes>
+</test>
+</suite>
